@@ -11,7 +11,7 @@
 **Total Problems:** 86  
 **Problems Conquered:** <!-- SOLVED_COUNT -->5<!-- /SOLVED_COUNT -->  
 **Completion:** **<!-- PROGRESS_PERCENT -->5.81<!-- /PROGRESS_PERCENT -->%**  
-`<!-- PROGRESS_BAR -->[█░░░░░░░░░░░░░░░░░░░] 5.81%<!-- /PROGRESS_BAR -->`
+<!-- PROGRESS_BAR -->[█░░░░░░░░░░░░░░░░░░░] 5.81%<!-- /PROGRESS_BAR -->
 
 This is not a collection of problems.  
 This is a **public log of evolution**.
