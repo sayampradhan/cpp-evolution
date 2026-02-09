@@ -50,15 +50,7 @@ Progress compounds. Consistency wins.
 
 ## 🏗 Architecture of Mastery
 
-cpp-evolution/
-│
-├── phase-1-foundations/
-├── phase-2-math/
-├── phase-3-dsa/
-├── phase-4-recursion/
-├── phase-5-oop/
-├── phase-6-stl/
-└── phase-7-systems/
+<pre> ```text cpp-evolution/ │ ├── phase-1-foundations/ ├── phase-2-math/ ├── phase-3-dsa/ ├── phase-4-recursion/ ├── phase-5-oop/ ├── phase-6-stl/ └── phase-7-systems/ ``` </pre>
 
 Each phase builds on the previous. No shortcuts.
 
