@@ -179,7 +179,7 @@ Every commit compounds my skill.
 
 ---
 
-# 🧠 Engineering Laws
+## 👨‍💻 Engineering Laws
 
 1. Fundamentals are non-negotiable  
 2. No blind copy-paste  
