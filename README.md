@@ -12,14 +12,6 @@ This is a **public log of evolution**.
 
 ---
 
-## 📊 Journey Metrics
-
-- 🎯 Goal: System-Level C++ Engineer
-- 🛠 Language: C / C++
-- 📅 Started: 2026
-- 🔁 Updated: Daily
-- 🧠 Focus: DSA + Low-Level Systems + Engineering Thinking
-
 ## 🧠 Philosophy
 
 Discipline > Motivation  
@@ -36,6 +28,14 @@ Every commit compounds my skill.
 
 ---
 
+## 📊 Evolution Metrics
+
+- 🎯 Goal: System-Level C++ Engineer
+- 🛠 Language: C / C++
+- 📅 Started: 2026
+- 🔁 Updated: Daily
+- 🧠 Focus: DSA + Low-Level Systems + Engineering Thinking
+
 ## 📊 Evolution Tracker
 
 **Total Problems:** 86  
@@ -47,9 +47,11 @@ Progress:
 [█░░░░░░░░░░░░░░░░░░░] 5.81%
 <!-- /PROGRESS_BAR -->
 
+Progress compounds. Consistency wins.
+
 ---
 
-## 📂 Repository Structure
+## 🏗 Architecture of Mastery
 
 cpp-evolution/
 │
