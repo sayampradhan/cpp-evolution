@@ -1,4 +1,5 @@
 # ⚔️ cpp-evolution — From Zero to System-Level C++ Mastery
+
 ![Language](https://img.shields.io/badge/Language-C++-00599C?logo=c%2B%2B&logoColor=white)
 ![Standard](https://img.shields.io/badge/Standard-C++20-blue)
 ![Status](https://img.shields.io/badge/Status-Active-success)
@@ -9,8 +10,6 @@
 
 This is not a collection of problems.  
 This is a **public log of evolution**.
-
----
 
 ## 🧠 Philosophy
 
@@ -25,8 +24,6 @@ I build foundations.
 This repository grows every single day.  
 Every solved problem sharpens my thinking.  
 Every commit compounds my skill.
-
----
 
 ## 📊 Evolution Metrics
 
@@ -51,8 +48,6 @@ Progress:
 
 Progress compounds. Consistency wins.
 
----
-
 ## 🏗 Architecture of Mastery
 
 cpp-evolution/
@@ -67,7 +62,7 @@ cpp-evolution/
 
 Each phase builds on the previous. No shortcuts.
 
-...
+
 
 ## 🟢 PHASE 1 — Foundations of Logic
 
@@ -183,8 +178,6 @@ Each phase builds on the previous. No shortcuts.
 - [ ] Segment tree  
 - [ ] Dijkstra’s algorithm  
 
-...
-
 ## 🧠 Bonus: Project-Level Practice
 
 - [ ] Command line calculator  
@@ -195,8 +188,6 @@ Each phase builds on the previous. No shortcuts.
 - [ ] Snake game (console-based)  
 - [ ] Sudoku game  
 - [ ] Chat system using sockets  
-
----
 
 # 🧠 Engineering Laws
 
@@ -229,8 +220,6 @@ By this tracker reaches 100%, I will be able to:
 - Write production-grade C++
 - Build multi-threaded systems
 - Think in algorithms naturally
-
----
 
 ⚔️ This repository is not about solving problems.  
 
