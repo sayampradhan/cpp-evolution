@@ -20,14 +20,14 @@
 
 | Category | Status |
 |--------|-------|
-| 🧠 **Total Problems** | 86 |
-| ⚔️ **Problems Conquered** | <!-- SOLVED_COUNT -->5<!-- /SOLVED_COUNT --> |
-| 📈 **Completion** | <!-- PROGRESS_PERCENT -->5.81<!-- /PROGRESS_PERCENT -->% |
 | 🎯 **Target** | System-Level C++ Engineer |
 | 🛠 **Core Stack** | C / C++ (C++20 focus) |
 | 📅 **Started** | 2026 |
 | 🔁 **Cadence** | Daily |
 | 🧠 **Focus** | DSA · Low-Level Systems · Engineering Thinking |
+| 🧠 **Total Problems** | 86 |
+| ⚔️ **Problems Conquered** | <!-- SOLVED_COUNT -->5<!-- /SOLVED_COUNT --> |
+| 📈 **Completion** | <!-- PROGRESS_PERCENT -->5.81<!-- /PROGRESS_PERCENT -->% |
 
 This is not a collection of problems.  
 This is a **public log of evolution**.
