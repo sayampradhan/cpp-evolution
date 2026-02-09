@@ -28,7 +28,7 @@ Progress:
 - [x] Print my full name 100 times  
 - [x] Check if a number is positive, negative, or zero  
 - [x] Find the largest of 3 numbers  
-- [ ] Check if a year is a leap year  
+- [x] Check if a year is a leap year  
 - [ ] Reverse a number (123 → 321)  
 - [ ] Count digits in a number  
 - [ ] Sum of digits of a number  
