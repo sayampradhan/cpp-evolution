@@ -4,6 +4,7 @@
 ![Standard](https://img.shields.io/badge/Standard-C++20-blue)
 ![Status](https://img.shields.io/badge/Status-Active-success)
 
+<<<<<<< HEAD
 
 > This repository documents my transformation  
 > from an absolute beginner in C++  
@@ -203,3 +204,10 @@ By this tracker reaches 100%, I will be able to:
 ⚔️ This repository is not about solving problems.  
 
 It is about building a mind capable of solving anything.
+=======
+|  |  |
+|:--|:--:|
+| **Total Problems** | 86 |
+| **Problems Conquered** | <!-- SOLVED_COUNT -->5<!-- /SOLVED_COUNT --> |
+| **Completion** | **<!-- PROGRESS_PERCENT -->5.81<!-- /PROGRESS_PERCENT -->%** |
+>>>>>>> 30ec6b6f8ef4932cc5df932317264aa0b105d96f
