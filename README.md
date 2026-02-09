@@ -1,8 +1,7 @@
 # ⚔️ cpp-evolution — From Zero to System-Level C++ Mastery
-
-![Language](https://img.shields.io/badge/Language-C++-blue.svg)
-![Status](https://img.shields.io/badge/Status-Active-success.svg)
-![Progress](https://img.shields.io/badge/Progress-5.81%25-orange.svg)
+![Language](https://img.shields.io/badge/Language-C++-00599C?logo=c%2B%2B&logoColor=white)
+![Standard](https://img.shields.io/badge/Standard-C++20-blue)
+![Status](https://img.shields.io/badge/Status-Active-success)
 
 > This repository documents my transformation  
 > from an absolute beginner in C++  
@@ -49,6 +48,20 @@ Progress:
 <!-- /PROGRESS_BAR -->
 
 ---
+
+## 📂 Repository Structure
+
+cpp-evolution/
+│
+├── phase-1-foundations/
+├── phase-2-math/
+├── phase-3-dsa/
+├── phase-4-recursion/
+├── phase-5-oop/
+├── phase-6-stl/
+└── phase-7-systems/
+
+...
 
 ## 🟢 PHASE 1 — Foundations of Logic
 
