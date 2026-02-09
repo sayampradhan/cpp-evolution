@@ -8,16 +8,29 @@ main(){
     cout<<"Enter a number: ";
     cin>>num;
 
+    while(1){
+        if (cin.fail()){
+            cout<<"\n\nInvalid. Enter a VALID number. "<<endl;
+            cin.clear();
+            cin.ignore(132, '\n');
+            cout<<"\nEnter a NUMBER: ";
+            cin >> num;
+        }
+
+        if (!cin.fail()){
+            break;
+        }
+    }
+
+    cout<<"\n\n";
+
     if (num < 0){
         cout<<num<<" is a negative number.";
     }
     else if (num > 0){
         cout<<num<<" is a positive number.";
     }
-    else if (num == 0){
-        cout<<num<<" is a zero.";
-    }
     else{
-        cout<<"Invalid";
+        cout<<num<<" is a zero.";
     }
 }
