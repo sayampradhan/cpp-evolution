@@ -11,8 +11,6 @@
 This is not a collection of problems.  
 This is a **public log of evolution**.
 
----
-
 ## 🧠 Philosophy
 
 Discipline > Motivation  
@@ -26,8 +24,6 @@ I build foundations.
 This repository grows every single day.  
 Every solved problem sharpens my thinking.  
 Every commit compounds my skill.
-
----
 
 ## 📊 Evolution Metrics
 
@@ -166,9 +162,9 @@ Progress compounds. Consistency wins.
 - [ ] Build a simple HTTP server  
 - [ ] Trie implementation  
 - [ ] Segment tree  
-- [ ] Dijkstra’s algorithm  
+- [ ] Dijkstra’s algorithm
 
-...
+
 
 ## 🧠 Bonus: Project-Level Practice
 
