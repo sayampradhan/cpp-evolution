@@ -8,6 +8,18 @@
 > from an absolute beginner in C++  
 > to advanced DSA & system-level programming.
 
+**Total Problems:** 86  
+**Problems Conquered:** <!-- SOLVED_COUNT -->5<!-- /SOLVED_COUNT -->  
+**Completion:** <!-- PROGRESS_PERCENT -->5.81<!-- /PROGRESS_PERCENT -->%
+
+Progress:  
+<!-- PROGRESS_BAR -->
+[█░░░░░░░░░░░░░░░░░░░] 5.81%
+<!-- /PROGRESS_BAR -->
+
+This is not a collection of problems.  
+This is a **public log of evolution**.
+
 ## 📊 Evolution Metrics
 
 | Metric | Value |
@@ -18,9 +30,6 @@
 | 🔁 Cadence | Daily |
 | 🧠 Focus | DSA · Low-Level Systems · Engineering Thinking |
 
-This is not a collection of problems.  
-This is a **public log of evolution**.
-
 ## ⚡ Growth Principle
 
 This repository grows every single day.  
@@ -28,16 +37,7 @@ Every solved problem sharpens my thinking.
 Every commit compounds my skill.
 
 
-## 📊 Evolution Tracker
-
-**Total Problems:** 86  
-**Problems Conquered:** <!-- SOLVED_COUNT -->5<!-- /SOLVED_COUNT -->  
-**Completion:** <!-- PROGRESS_PERCENT -->5.81<!-- /PROGRESS_PERCENT -->%
-
-Progress:  
-<!-- PROGRESS_BAR -->
-[█░░░░░░░░░░░░░░░░░░░] 5.81%
-<!-- /PROGRESS_BAR -->
+<!-- ## 📊 Evolution Tracker -->
 
 Progress compounds. Consistency wins.
 
