@@ -14,15 +14,6 @@
 
 ---
 
-> This repository documents my transformation  
-> from an absolute beginner in C++  
-> to advanced DSA & system-level programming.
-
-This is not a collection of problems.  
-This is a **public log of evolution**.
-
-## 📊 Evolution Dashboard
-
 | Metric | Value |
 |--------|-------|
 | 🧠 **Total Problems** | 86 |
@@ -33,6 +24,16 @@ This is a **public log of evolution**.
 | 📅 **Started** | 2026 |
 | 🔁 **Cadence** | Daily |
 | 🧠 **Focus** | DSA · Low-Level Systems · Engineering Thinking |
+
+
+> This repository documents my transformation  
+> from an absolute beginner in C++  
+> to advanced DSA & system-level programming.
+
+This is not a collection of problems.  
+This is a **public log of evolution**.
+<!-- 
+## 📊 Evolution Dashboard -->
 
 Progress compounds. Consistency wins.
 
