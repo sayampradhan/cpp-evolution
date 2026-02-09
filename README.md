@@ -17,6 +17,8 @@
 > This repository documents my transformation  
 > from an absolute beginner in C++  
 > to advanced DSA & system-level programming.
+This is not a collection of problems.  
+This is a **public log of evolution**.
 
 | Category | Status |
 |--------|-------|
@@ -29,8 +31,6 @@
 | ⚔️ **Problems Conquered** | <!-- SOLVED_COUNT -->5<!-- /SOLVED_COUNT --> |
 | 📈 **Completion** | <!-- PROGRESS_PERCENT -->5.81<!-- /PROGRESS_PERCENT -->% |
 
-This is not a collection of problems.  
-This is a **public log of evolution**.
 <!-- 
 ## 📊 Evolution Dashboard -->
 
