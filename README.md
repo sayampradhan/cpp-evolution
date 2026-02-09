@@ -4,9 +4,7 @@
 ![Standard](https://img.shields.io/badge/Standard-C++20-blue)
 ![Status](https://img.shields.io/badge/Status-Active-success)
 
-## 📊 Evolution Tracker
-
-| Metric | Value |
+|  |  |
 |:---------------------|:------:|
 | Total Problems | 86 |
 | Problems Conquered | <!-- SOLVED_COUNT -->5<!-- /SOLVED_COUNT --> |
