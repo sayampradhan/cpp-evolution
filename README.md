@@ -26,8 +26,10 @@ Depth > Speed
 I build foundations.
 
 ---
-⚡ This repository grows every single day.
-Every solved problem sharpens my thinking.
+## ⚡ Growth Principle
+
+This repository grows every single day.  
+Every solved problem sharpens my thinking.  
 Every commit compounds my skill.
 
 
@@ -45,7 +47,7 @@ Progress:
 
 ---
 
-# 🟢 PHASE 1 — Foundations of Logic
+## 🟢 PHASE 1 — Foundations of Logic
 
 **Focus:** cin, cout, variables, if-else, loops, operators.
 
@@ -62,7 +64,7 @@ Progress:
 
 ---
 
-# 🟡 PHASE 2 — Mathematical Thinking
+## 🟡 PHASE 2 — Mathematical Thinking
 
 **Focus:** Nested loops, mathematical thinking, problem-solving.
 
@@ -79,7 +81,7 @@ Progress:
 
 ---
 
-# 🟠 PHASE 3 — Data Structures Core
+## 🟠 PHASE 3 — Data Structures Core
 
 ## 🔹 Arrays
 
@@ -107,7 +109,7 @@ Progress:
 
 ---
 
-# 🔵 PHASE 4 — Recursion & Algorithmic Depth
+## 🔵 PHASE 4 — Recursion & Algorithmic Depth
 
 **Focus:** Recursion, backtracking, divide & conquer.
 
@@ -124,7 +126,7 @@ Progress:
 
 ---
 
-# 🟣 PHASE 5 — Object-Oriented Architecture
+## 🟣 PHASE 5 — Object-Oriented Architecture
 
 **Focus:** Classes, constructors, destructors, inheritance, polymorphism.
 
@@ -141,7 +143,7 @@ Progress:
 
 ---
 
-# 🔴 PHASE 6 — STL & Competitive Edge
+## 🔴 PHASE 6 — STL & Competitive Edge
 
 **Focus:** vector, map, set, unordered_map, stack, queue, algorithms.
 
@@ -158,7 +160,7 @@ Progress:
 
 ---
 
-# ⚫ PHASE 7 — Systems & Engineering Mastery
+## ⚫ PHASE 7 — Systems & Engineering Mastery
 
 - [ ] Implement my own vector class  
 - [ ] Thread-safe counter using mutex  
