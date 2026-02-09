@@ -41,7 +41,7 @@ Every commit compounds my skill.
 
 Progress:  
 <!-- PROGRESS_BAR -->
-[█░░░░░░░░░░░░░░░░░░░] 5.81%  
+[█░░░░░░░░░░░░░░░░░░░] 5.81%
 <!-- /PROGRESS_BAR -->
 
 ---
