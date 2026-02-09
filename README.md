@@ -11,14 +11,6 @@
 This is not a collection of problems.  
 This is a **public log of evolution**.
 
-## 🧠 Philosophy
-
-Discipline > Motivation  
-Consistency > Talent  
-Depth > Speed  
-
-I build foundations.
-
 ## ⚡ Growth Principle
 
 This repository grows every single day.  
@@ -47,6 +39,15 @@ Progress:
 <!-- /PROGRESS_BAR -->
 
 Progress compounds. Consistency wins.
+
+
+## 🧠 Philosophy
+
+Discipline > Motivation  
+Consistency > Talent  
+Depth > Speed  
+
+I build foundations.
 
 
 ## 🟢 PHASE 1 — Foundations of Logic
