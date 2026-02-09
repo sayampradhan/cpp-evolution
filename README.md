@@ -1,5 +1,9 @@
 # ⚔️ cpp-evolution — From Zero to System-Level C++ Mastery
 
+![Language](https://img.shields.io/badge/Language-C++-blue.svg)
+![Status](https://img.shields.io/badge/Status-Active-success.svg)
+![Progress](https://img.shields.io/badge/Progress-5.81%25-orange.svg)
+
 > This repository documents my transformation  
 > from an absolute beginner in C++  
 > to advanced DSA & system-level programming.
