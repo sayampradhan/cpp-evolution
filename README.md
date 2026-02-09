@@ -11,12 +11,12 @@ The problems in this repo will be ticked each day after being solved to indicate
 ## 📊 Progress Tracker
 
 **Total Problems:** 86  
-**Problems Solved:** <!-- SOLVED_COUNT -->3<!-- /SOLVED_COUNT -->  
-**Completion:** <!-- PROGRESS_PERCENT -->3.49<!-- /PROGRESS_PERCENT -->%
+**Problems Solved:** <!-- SOLVED_COUNT -->4<!-- /SOLVED_COUNT -->  
+**Completion:** <!-- PROGRESS_PERCENT -->4.65<!-- /PROGRESS_PERCENT -->%
 
 Progress:
 <!-- PROGRESS_BAR -->
-[░░░░░░░░░░░░░░░░░░░░] 3.49%
+[░░░░░░░░░░░░░░░░░░░░] 4.65%
 <!-- /PROGRESS_BAR -->
 
 ---
