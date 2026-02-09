@@ -11,12 +11,6 @@
 This is not a collection of problems.  
 This is a **public log of evolution**.
 
-## ⚡ Growth Principle
-
-This repository grows every single day.  
-Every solved problem sharpens my thinking.  
-Every commit compounds my skill.
-
 ## 📊 Evolution Metrics
 
 | Metric | Value |
@@ -26,6 +20,12 @@ Every commit compounds my skill.
 | 📅 Started | 2026 |
 | 🔁 Cadence | Daily |
 | 🧠 Focus | DSA · Low-Level Systems · Engineering Thinking |
+
+## ⚡ Growth Principle
+
+This repository grows every single day.  
+Every solved problem sharpens my thinking.  
+Every commit compounds my skill.
 
 ## 📊 Evolution Tracker
 
