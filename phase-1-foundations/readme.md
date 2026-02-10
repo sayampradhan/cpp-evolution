@@ -3,14 +3,14 @@
 # 🟢 PHASE 1 — FOUNDATIONS OF LOGIC  
 ### The Discipline of Control Flow
 
+██████████ 100% Completed
+
 <p>
   <img src="https://img.shields.io/badge/Stage-Beginner_to_Control-2ecc71" />
   <img src="https://img.shields.io/badge/Core-cin_/_cout-blue" />
   <img src="https://img.shields.io/badge/Concept-Loops_&_Conditionals-orange" />
   <img src="https://img.shields.io/badge/Status-Completed-success" />
 </p>
-
-██████████ 100%
 
 > This phase is where syntax becomes thinking.
 
