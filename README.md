@@ -60,7 +60,7 @@ Every commit compounds my skill.
 - [x] Sum of digits of a number  
 - [x] Check if a number is a palindrome  
 - [x] Print multiplication table of a number  
-- [ ] Print patterns (Right triangle, Pyramid, Diamond)
+- [x] Print patterns (Right triangle, Pyramid, Diamond)
 
 ## 🟡 PHASE 2 — Mathematical Thinking
 
