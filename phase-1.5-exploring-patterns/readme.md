@@ -44,9 +44,7 @@ This phase strengthens raw loop precision.
 - [ ] Inverted right triangle  
 - [ ] Half pyramid (numbers)  
 - [ ] Floyd’s triangle  
-- [ ] 0-1 triangle  
-
----
+- [ ] 0-1 triangle
 
 ### 🔹 Intermediate Patterns
 
@@ -58,24 +56,13 @@ This phase strengthens raw loop precision.
 - [ ] Palindromic number pyramid  
 - [ ] Rhombus pattern  
 
----
-
 ### 🔹 Advanced Pattern Thinking
 
 - [ ] Hollow butterfly  
 - [ ] Spiral matrix print  
 - [ ] Zig-zag matrix  
 - [ ] Pattern using recursion  
-- [ ] Pattern without nested loops  
-
----
-
-## 📈 Phase Completion Checklist
-
-- [ ] All basic patterns implemented  
-- [ ] Hollow structure logic mastered  
-- [ ] Symmetry reasoning automatic  
-- [ ] Able to derive new patterns independently  
+- [ ] Pattern without nested loops   
 
 ---
 
