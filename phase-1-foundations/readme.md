@@ -1,6 +1,9 @@
 <div align="center">
 
-# 🟢 PHASE 1 — FOUNDATIONS OF LOGIC  
+# 🟢 PHASE 1 — FOUNDATIONS OF LOGIC
+
+██████████ *100%*
+
 ### The Discipline of Control Flow
 
 <p>
@@ -11,8 +14,6 @@
 </p>
 
 > This phase is where syntax becomes thinking.
-
-██████████ *100%*
 
 </div>
 
