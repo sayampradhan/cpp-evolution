@@ -14,7 +14,9 @@
 
 </div>
 
----
+## 📈 Phase Completion
+
+██████████ 100%
 
 ## 🎯 Objective
 
@@ -29,8 +31,6 @@ Build absolute control over:
 This phase is not about difficulty.  
 It is about discipline.
 
----
-
 ## 🧠 Engineering Focus
 
 In this phase, I trained myself to:
@@ -40,14 +40,6 @@ In this phase, I trained myself to:
 - Think in step-by-step transformations
 - Avoid blind copy-paste
 - Rewrite solutions from memory
-
----
-
-## 📈 Phase Completion
-
-██████████ 100%
-
----
 
 ## 📂 Problems Conquered
 
