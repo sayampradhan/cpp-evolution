@@ -2,18 +2,19 @@
 
 # 🟩 PHASE 1.5 — EXPLORING PATTERNS
 
-██████░░░░ ***60%***
+██░░░░░░░░ ***15%***
 
-### Loop Control • Symmetry • Index Engineering
+### Loop Control • Space Handling • Symmetry Engineering
 
 <p>
-  <img src="https://img.shields.io/badge/Stage-Loop_Mastery-27ae60" />
-  <img src="https://img.shields.io/badge/Core-Nested_Loops-blue" />
-  <img src="https://img.shields.io/badge/Concept-Symmetry_&_Structure-orange" />
+  <img src="https://img.shields.io/badge/Focus-Nested_Loops-8A2BE2" />
+  <img src="https://img.shields.io/badge/Mastery-Space_Control-blue" />
+  <img src="https://img.shields.io/badge/Skill-Symmetry_Logic-success" />
   <img src="https://img.shields.io/badge/Status-In_Progress-yellow" />
 </p>
 
-> Stars are irrelevant. Structure is everything.
+> Patterns are not about stars.  
+> They are about controlling loops, indices, and structure.
 
 </div>
 
@@ -21,47 +22,61 @@
 
 ## 🎯 Objective
 
-Build absolute control over:
+Build strong control over:
 
-- Nested loop mechanics
-- Space and star alignment
-- Symmetry logic
-- Index mathematics
-- Visual pattern construction
+- Nested loop mechanics  
+- Space and alignment logic  
+- Symmetry construction  
+- Pattern mathematics  
 
-This phase is not about decoration.  
-It is about structural precision.
+This phase strengthens raw loop precision.
 
 ---
 
-## 🧠 Engineering Focus
+## 📂 Pattern Drills
 
-In this phase, I trained myself to:
+### 🔹 Basic Patterns
 
-- Think in rows and columns
-- Visualize output before coding
-- Derive star formulas logically
-- Balance space and star placement
-- Build patterns without trial-and-error guessing
+- [x] Right-angled triangle  
+- [x] Pyramid  
+- [x] Diamond  
 
----
-
-## 📂 Patterns Conquered
-
-| # | Pattern | Core Concept |
-|---|----------|--------------|
-| 1 | Right-angled Triangle | Incremental growth logic |
-| 2 | Pyramid | Space-star balance |
-| 3 | Diamond | Upper + lower symmetry |
-| 4 | Inverted Triangle | Reverse loop control |
-| 5 | Number Half Pyramid | Numeric progression |
-| 6 | Floyd’s Triangle | Continuous counting logic |
-| 7 | 0-1 Triangle | Conditional printing inside loops |
-| 8 | Hollow Pyramid | Border condition control |
-| 9 | Butterfly Pattern | Dual-side symmetry |
-| 10 | Sandglass Pattern | Shrinking + expanding structure |
+- [ ] Inverted right triangle  
+- [ ] Half pyramid (numbers)  
+- [ ] Floyd’s triangle  
+- [ ] 0-1 triangle  
 
 ---
 
-⚔️ This is where loops stop being syntax  
-and start becoming structure.
+### 🔹 Intermediate Patterns
+
+- [ ] Hollow pyramid  
+- [ ] Hollow diamond  
+- [ ] Butterfly pattern  
+- [ ] Sandglass pattern  
+- [ ] Pascal’s triangle  
+- [ ] Palindromic number pyramid  
+- [ ] Rhombus pattern  
+
+---
+
+### 🔹 Advanced Pattern Thinking
+
+- [ ] Hollow butterfly  
+- [ ] Spiral matrix print  
+- [ ] Zig-zag matrix  
+- [ ] Pattern using recursion  
+- [ ] Pattern without nested loops  
+
+---
+
+## 📈 Phase Completion Checklist
+
+- [ ] All basic patterns implemented  
+- [ ] Hollow structure logic mastered  
+- [ ] Symmetry reasoning automatic  
+- [ ] Able to derive new patterns independently  
+
+---
+
+⚔️ This phase is where loops evolve into structural thinking.
