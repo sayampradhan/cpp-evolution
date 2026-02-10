@@ -62,8 +62,6 @@ Every commit compounds my skill.
 - [x] Print multiplication table of a number  
 - [x] Print patterns (Right triangle, Pyramid, Diamond)
 
-<div align="center">
-
 ## 🟩 PHASE 1.5 — Exploring Patterns
 
 **Focus:** Nested loops mastery · Space handling · Symmetry logic · Pattern math thinking
