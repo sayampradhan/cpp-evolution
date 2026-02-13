@@ -90,7 +90,7 @@ int main(){
     int choice;
 
     cout<<"Choose from the following: \n"
-    <<"1 - Pattern 1 (Right-Angled Triangle)\n"
+    <<"1 - Right-Angled Triangle\n"
     <<"2 - Inverted Right-Angled Triangle\n"
     <<"3 - Mirrored Right-Angled Triangle\n"
     <<"4 - Inverted Mirrored Right-Angled Triangle\n";

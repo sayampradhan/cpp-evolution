@@ -75,7 +75,7 @@ Every commit compounds my skill.
 - [x] Diamond  
 - [x] Rectangle
 - [x] More on half-pyramid (or right-triangle) 
-- [ ] Half pyramid (numbers)  
+- [x] Half pyramid (numbers)  
 - [ ] Floyd’s triangle  
 - [ ] 0-1 triangle  
 
