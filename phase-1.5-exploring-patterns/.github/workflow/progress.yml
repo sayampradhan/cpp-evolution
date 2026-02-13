@@ -23,7 +23,7 @@ jobs:
 
       - name: Update README
         run: |
-          FILE="phase-1.5/README.md"
+          FILE="phase-1.5-exploring-patterns/README.md"
           TOTAL=20
           SOLVED=${{ steps.count.outputs.solved }}
 
