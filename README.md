@@ -77,7 +77,7 @@ Every commit compounds my skill.
 - [x] More on half-pyramid (or right-triangle) 
 - [x] Half pyramid (numbers)  
 - [x] Floyd’s triangle  
-- [ ] 0-1 triangle  
+- [x] 0-1 triangle  
 
 ### 🔹 Intermediate Patterns
 - [ ] Hollow pyramid  
