@@ -26,7 +26,7 @@ This is a **public log of evolution**.
 | 📅 **Started** | 2026 |
 | 🔁 **Cadence** | Daily |
 | 🧠 **Focus** | DSA · Low-Level Systems · Engineering Thinking |
-| 🧠 **Total Problems** | 106 |
+| 🧠 **Total Problems** | 107 |
 | ⚔️ **Problems Conquered** | <!-- SOLVED_COUNT -->18<!-- /SOLVED_COUNT --> |
 | 📈 **Completion** | <!-- PROGRESS_PERCENT -->16.98<!-- /PROGRESS_PERCENT -->% |
 
@@ -80,6 +80,7 @@ Every commit compounds my skill.
 - [x] 0-1 triangle  
 
 ### 🔹 Intermediate Patterns
+- [x] Hollow half-pyramid
 - [ ] Hollow pyramid  
 - [ ] Hollow diamond  
 - [ ] Butterfly pattern  
