@@ -81,7 +81,7 @@ Every commit compounds my skill.
 
 ### 🔹 Intermediate Patterns
 - [x] Hollow half-pyramid
-- [ ] Hollow pyramid  
+- [x] Hollow pyramid  
 - [ ] Hollow diamond  
 - [ ] Butterfly pattern  
 - [ ] Sandglass pattern  
