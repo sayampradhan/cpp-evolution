@@ -8,7 +8,10 @@ void hollow_diamond(int n){
             cout<<" ";
         }
         for (int j = 1; j <= i; j++){
-            if (j == 1 || j == n || i == n){
+            if (j == 1 || j == i){
+                cout<<"* ";
+            }
+            else if(i == n){
                 cout<<"* ";
             }
             else{
