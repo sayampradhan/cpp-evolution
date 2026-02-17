@@ -39,7 +39,7 @@ void hollow_diamond(int n){
 
 main(){
     int n;
-    cout<<"Enter the no of rows.: ";
+    cout<<"Enter the limit: ";
     cin>>n;
     while(true){
         if (n > 3){
