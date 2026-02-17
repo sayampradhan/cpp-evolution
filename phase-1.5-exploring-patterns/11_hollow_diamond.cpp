@@ -4,11 +4,16 @@ using namespace std;
 
 void hollow_diamond(int n){
     for (int i = 1; i <= n; i++){
-        for (int k = 1; k <= n; k++){
+        for (int k = i; k <= n; k++){
             cout<<" ";
         }
         for (int j = 1; j <= i; j++){
-            cout<<"* ";
+            if (j == 1 || j == n || i == n){
+                cout<<"* ";
+            }
+            else{
+                cout<<"  ";
+            }
         }
         cout<<endl;
     }
