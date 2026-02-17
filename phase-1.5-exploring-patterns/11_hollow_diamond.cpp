@@ -3,5 +3,9 @@
 using namespace std;
 
 void hollow_diamond(){
+
+}
+
+main(){
     
 }
