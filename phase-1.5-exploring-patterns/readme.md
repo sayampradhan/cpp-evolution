@@ -49,8 +49,8 @@ This phase strengthens raw loop precision.
 
 - [x] Hollow half-pyramid
 - [x] Hollow pyramid  
-- [ ] Hollow diamond  
-- [ ] Butterfly pattern  
+- [x] Hollow diamond  
+- [x] Butterfly pattern  
 - [ ] Sandglass pattern  
 - [ ] Pascal’s triangle  
 - [ ] Palindromic number pyramid  
