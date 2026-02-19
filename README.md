@@ -85,7 +85,7 @@ Every commit compounds my skill.
 - [x] Hollow diamond  
 - [x] Butterfly pattern  
 - [x] Sandglass pattern  
-- [x] Pascal’s triangle  
+- [ ] Pascal’s triangle  
 - [ ] Palindromic number pyramid  
 - [ ] Rhombus pattern  
 
