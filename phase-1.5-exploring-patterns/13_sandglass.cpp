@@ -47,6 +47,17 @@ void sandglass(int n){
     }
   }
 
-main(){
-  sandglass(5);
+int main() {
+    int n;
+    cout << "Enter n: ";
+
+    while (!(cin >> n)) {
+        cout << "Invalid Input. Enter digits only: ";
+        cin.clear();
+        cin.ignore(numeric_limits<streamsize>::max(), '\n');
+    }
+
+    n /= 2;
+    sandglass(n);
+    return 0;
 }

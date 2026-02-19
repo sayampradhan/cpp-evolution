@@ -51,7 +51,7 @@ This phase strengthens raw loop precision.
 - [x] Hollow pyramid  
 - [x] Hollow diamond  
 - [x] Butterfly pattern  
-- [ ] Sandglass pattern  
+- [x] Sandglass pattern  
 - [ ] Pascal’s triangle  
 - [ ] Palindromic number pyramid  
 - [ ] Rhombus pattern  
