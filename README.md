@@ -90,7 +90,7 @@ Every commit compounds my skill.
 - [x] Rhombus pattern  
 
 ### 🔹 Advanced Pattern Thinking
-- [x] Hollow butterfly  
+- [ ] Hollow butterfly  
 - [ ] Spiral matrix print  
 - [ ] Zig-zag matrix  
 - [ ] Pattern using recursion  
