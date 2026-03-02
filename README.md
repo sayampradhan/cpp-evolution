@@ -105,7 +105,7 @@ Master space-star balance, index mathematics, and symmetry reasoning.
 - [x] Check if a number is Armstrong  
 - [x] Find GCD 
 - [x] Find LCM  
-- [ ] Generate Fibonacci series  
+- [x] Generate Fibonacci series  
 - [ ] Convert decimal to binary (without built-in functions)  
 - [ ] Print Pascal’s triangle  
 - [ ] Find factorial without recursion  
