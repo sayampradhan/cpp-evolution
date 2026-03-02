@@ -42,7 +42,7 @@ This phase transforms raw loop control into mathematical intelligence.
 - [x] Check if a number is Armstrong  
 - [x] Find GCD
 - [x] Find LCM  
-- [ ] Generate Fibonacci series  
+- [x] Generate Fibonacci series  
 - [ ] Convert decimal to binary (without built-in functions)  
 
 ### 🔹 Numerical Pattern Systems
