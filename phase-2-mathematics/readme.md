@@ -43,7 +43,7 @@ This phase transforms raw loop control into mathematical intelligence.
 - [x] Find GCD
 - [x] Find LCM  
 - [x] Generate Fibonacci series  
-- [ ] Convert decimal to binary (without built-in functions)  
+- [x] Convert decimal to binary (without built-in functions)  
 
 ### 🔹 Numerical Pattern Systems
 
