@@ -15,5 +15,10 @@ void dec_to_bin(int num){
 }
 
 int main(){
+    int n;
+    cout << "Enter a number: ";
+    cin >> n;
+
+    
     
 }
