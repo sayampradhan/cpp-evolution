@@ -19,6 +19,15 @@ int main(){
     cout << "Enter a number: ";
     cin >> n;
 
-    
+    if (n == 0){
+        cout<<"0";
+    }
+    else{
+        dec_to_bin(n);
+    }
+
+    cout<<endl;
+
+    return 0;
     
 }
