@@ -107,7 +107,7 @@ Master space-star balance, index mathematics, and symmetry reasoning.
 - [x] Find LCM  
 - [x] Generate Fibonacci series  
 - [x] Convert decimal to binary (without built-in functions)  
-- [ ] Print Pascal’s triangle  
+- [x] Print Pascal’s triangle  
 - [ ] Find factorial without recursion  
 - [ ] Strong number checker  
 - [ ] Perfect number checker  
