@@ -25,6 +25,7 @@ bool strong_number(int n){
     return res;
 }
 
+// main function
 main(){
     int n;
     cout<<"Enter a number: ";
