@@ -24,3 +24,11 @@ bool strong_number(int n){
     int res = sum_factorial == original_num;
     return res;
 }
+
+main(){
+    int n;
+    cout<<"Enter a number: ";
+    cin>>n;
+
+    cout<<strong_number(n);
+}
