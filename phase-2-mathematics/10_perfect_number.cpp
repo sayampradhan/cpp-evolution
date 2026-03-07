@@ -31,5 +31,15 @@ main(){
     }
     for (int element: divisors){
         cout<<"Element: "<<element<<" ";
+        sum+=element;
     }
+
+    if(n == sum){
+        cout<<"Perfect number";
+    }
+
+    else{
+        cout<<"NOT a Perfect number";
+    }
+
 }
