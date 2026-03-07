@@ -33,6 +33,7 @@ void perfect_number(int n){
     }
 }
 
+// Main function
 main(){
     int n;
     cout<<"-----------------------"<<endl;
