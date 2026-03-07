@@ -25,6 +25,14 @@ main(){
     cout<<"-----------------------";
     cout<<"PERFECT NUMBER CHECKER";
     cout<<"-----------------------";
+    cout<<endl<<endl;
+    cout<<"Enter a number: ";
+    if (n > 0){
+        perfect_number(n);
+    }
+    else{
+        cout<<"Number must be greater than 0.";
+    }
     for (int i = 1; i <= n/2; i++){
         if (n % i == 0){
             divisors.push_back(i);
