@@ -19,7 +19,10 @@ void perfect_number(int n){
 }
 
 main(){
-    int n = 6;
+    int n;
+    cout<<"-----------------------";
+    cout<<"Enter a number:";
+    cout<<"-----------------------";
     vector<int> divisors;
     int sum = 0;
     for (int i = 1; i <= n/2; i++){
