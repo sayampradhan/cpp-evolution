@@ -10,6 +10,9 @@ using namespace std;
     2. Find all the divisors of a number.
     3. Store them into an vector array.
     4. Add all the elements of the vector array.
+    5. If the sum matches the original number:
+        i. Then print number is perfect.
+        ii. Otherwise, print number is NOT perfect.
 
 
 */
