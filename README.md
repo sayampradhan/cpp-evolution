@@ -110,7 +110,7 @@ Master space-star balance, index mathematics, and symmetry reasoning.
 - [x] Print Pascal’s triangle  
 - [x] Find factorial without recursion  
 - [x] Strong number checker  
-- [ ] Perfect number checker  
+- [x] Perfect number checker  
 - [ ] Build a basic number guessing game  
 
 ## 🟠 PHASE 3 — Data Structures Core
