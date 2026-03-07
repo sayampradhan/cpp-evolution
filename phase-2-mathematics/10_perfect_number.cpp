@@ -25,7 +25,7 @@ void perfect_number(int n){
     }
     }
     for (int element: divisors){
-        
+        cout<<"Element: "<<element
     }
 }
 
