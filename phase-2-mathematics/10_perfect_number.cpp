@@ -25,7 +25,7 @@ void perfect_number(int n){
     for (int element : divisors) {
         sum += element;
     }
-
+    cout<<endl<<endl;
     if (n == sum && n != 0) {
         cout << n << " is a Perfect number" << endl;
     } else {
@@ -40,6 +40,7 @@ main(){
     cout<<"-----------------------";
     cout<<endl<<endl;
     cout<<"Enter a number: ";
+    cin>>n;
     if (n > 0){
         perfect_number(n);
     }
