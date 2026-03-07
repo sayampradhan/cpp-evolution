@@ -30,6 +30,6 @@ main(){
         }
     }
     for (int element: divisors){
-        cout<<"Element: "<<element;
+        cout<<"Element: "<<element<<" ";
     }
 }
