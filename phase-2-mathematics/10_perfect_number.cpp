@@ -11,8 +11,8 @@ using namespace std;
     3. Store them into an vector array.
     4. Add all the elements of the vector array.
     5. If the sum matches the original number:
-        i. Then print number is perfect.
-        ii. Otherwise, print number is NOT perfect.
+        i. Then number is perfect.
+        ii. Otherwise, number is NOT perfect.
 
 
 */
