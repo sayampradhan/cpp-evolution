@@ -27,5 +27,6 @@ void perfect_number(int n){
 }
 
 main(){
+    perfect_number(5);
 
 }
