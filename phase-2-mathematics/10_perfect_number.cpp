@@ -24,6 +24,9 @@ void perfect_number(int n){
         divisors.push_back(temp);
     }
     }
+    for (int element: divisors){
+        
+    }
 }
 
 main(){
