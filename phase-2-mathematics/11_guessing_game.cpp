@@ -36,6 +36,7 @@ main(){
     cin>> start;
     cout<<"Enter the ending integer: ";
     cin>> end;
+    cout<<"------------------------------"<<endl;
 
     random_number = random_number_generator(start, end);
 
