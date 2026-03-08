@@ -28,4 +28,6 @@ void single_pass(int arr[], int length){
 main(){
     int arr[] = {};
     int size;
+    cout<<"Enter the length of the array: ";
+    cin>>size;
 }
