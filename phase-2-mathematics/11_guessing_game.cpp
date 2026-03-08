@@ -32,6 +32,7 @@ main(){
     cout<<"--------------------------------------"<<endl;
     cout<<endl<<endl;
     cout<<"------- ENTER A RANGE -------"<<endl;
+    cout<<"Enter the starting integer: ";
     cin>> start;
     cin>> end;
 }
