@@ -5,6 +5,7 @@ using namespace std;
 /*
 THREE ALGORITHMS used to solve this problem are:
     1. Single-Pass Approach
+    2. Two-Pass Approach
 
 
 */
