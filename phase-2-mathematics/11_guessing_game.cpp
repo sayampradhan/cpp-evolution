@@ -57,6 +57,7 @@ main(){
             cout<<"Umm... The guessed number is greater than what I have thought."<<endl;
             cout<<"Try guessing a smaller number.";
         }
+        cout<<"Enter again: ";
     }
 
 }
