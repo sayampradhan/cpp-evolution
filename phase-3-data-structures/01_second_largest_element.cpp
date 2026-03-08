@@ -23,7 +23,7 @@ void single_pass(int arr[]){
             int max1 = arr[i];
         }
     }
-    cout<<"Second"
+    cout<<"Second largest element in the array: "<<max2;
 }
 
 main(){
