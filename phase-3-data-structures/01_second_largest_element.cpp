@@ -13,7 +13,7 @@ FOUR ALGORITHMS used to solve this problem are:
 
 void single_pass(int arr[]){
     int max1, max2;
-    int length = std::size(arr);
+    int length = sizeof(arr)/sizeof(arr[0]);
     for (int i = 0; i < length; i++){
         if (arr[i]<arr[i+1]){
             int max2 = arr[i];
