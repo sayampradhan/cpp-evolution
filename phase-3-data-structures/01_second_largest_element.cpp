@@ -1,6 +1,7 @@
 #include<iostream>
 #include<array>
 #include<vector>
+#include<climits>
 using namespace std;
 
 // Finding the second largest number in an array
@@ -13,17 +14,20 @@ FOUR ALGORITHMS used to solve this problem are:
 */
 
 void single_pass(int* arr, int length){
-    int max1 = 0, max2 = 0;
-    // int length = sizeof(arr) / sizeof(arr[0]);
+    int max1 = INT_MIN;
+    int max2 = INT_MIN;
     int i = 0;
     while(i < length){
-        if (arr[i]<arr[i+1]){
-            int max2 = arr[i];
-            int max1 = arr[i+1];
+        if (arr[i] > max1){
+            max2 = max1;
+            max1 = arr[i];
+        }
+        else if (arr[i] > max2 && arr[i] != max1){
+            max2 = arr[i];
         }
         i++;
     }
-    cout<<"Second largest element in the array: "<<max2;
+    cout << "Second largest element in the array: " << max2;
 }
 
 main(){
