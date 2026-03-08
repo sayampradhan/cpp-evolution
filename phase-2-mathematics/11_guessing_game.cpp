@@ -34,5 +34,6 @@ main(){
     cout<<"------- ENTER A RANGE -------"<<endl;
     cout<<"Enter the starting integer: ";
     cin>> start;
+    cout<<"Enter the ending integer: ";
     cin>> end;
 }
