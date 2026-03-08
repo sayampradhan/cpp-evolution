@@ -13,6 +13,7 @@ BUILDING A GUESSING GAME
     - If the number is less than the random number,
         - we will say, the number is little greater.
     - If the number is greater than the random number,
+        - we will say, the number is little lesser.
 */
 
 
