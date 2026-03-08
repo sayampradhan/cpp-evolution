@@ -38,7 +38,7 @@ This phase introduces the **first true data structures** and trains the mind to 
 
 ### 🔹 Arrays
 
-- [ ] Find second largest element  
+- [x] Find second largest element  
 - [ ] Remove duplicates from array  
 - [ ] Rotate array left/right  
 - [ ] Find missing number in 1–N  
