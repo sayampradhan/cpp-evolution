@@ -1,4 +1,5 @@
 #include<iostream>
+#include<array>
 using namespace std;
 
 // Finding the second largest number in an array
@@ -10,29 +11,27 @@ FOUR ALGORITHMS used to solve this problem are:
     4. Tournament Approach
 */
 
-void single_pass(int arr[], int length){
-    int max1, max2;
-    for (int i = 0; i < length; i++){
+void single_pass(int* arr, int length){
+    int max1 = 0, max2 = 0;
+    // int length = sizeof(arr) / sizeof(arr[0]);
+    int i = 0;
+    while(i < length){
         if (arr[i]<arr[i+1]){
             int max2 = arr[i];
             int max1 = arr[i+1];
-        }
-        else{
-            int max2 = arr[i+1];
-            int max1 = arr[i];
         }
     }
     cout<<"Second largest element in the array: "<<max2;
 }
 
 main(){
-    int arr[] = {};
     int size;
     cout<<"Enter the length of the array: ";
     cin>>size;
-    for (int i = 0; i < size; i++){
+    int test[size] = {};
+    for (int i = 1; i <= size; i++){
         cout<<"Enter the element "<<i<<": ";
-        cin>>arr[i];
+        cin>>test[i];
     }
-    single_pass(arr, size);
+    single_pass(test, size);
 }
