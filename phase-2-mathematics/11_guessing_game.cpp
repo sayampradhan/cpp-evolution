@@ -42,9 +42,16 @@ main(){
     cout<<endl<<"Ummm... I have thought a number between "<<start<<" and "<<end;
     cout<<endl<<"Now you guess it..."<<endl<<endl;
     cout<<"Enter your guess: ";
-    while(guessed_number != random_number){
+    while(true){
         cin>>guessed_number;
-        
+        if (guessed_number==random_number){
+            cout<<"Ahhh... You guessed it right"<<endl;
+            cout<<"My guess was"<<random_number;
+            break;
+        }
+        if (guessed_number < random_number){
+            cout<<"The is lesser than what I have guessed."<<endl;
+        }
     }
 
 }
