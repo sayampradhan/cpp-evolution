@@ -12,7 +12,7 @@ BUILDING A GUESSING GAME
         - we will say great. you guessed it right.
     - If the number is less than the random number,
         - we will say, the number is little greater.
-    - If the number is greater than the input,
+    - If the number is greater than the random number,
 */
 
 
