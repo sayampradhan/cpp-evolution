@@ -30,5 +30,6 @@ main(){
     cout<<"--------------------------------------"<<endl;
     cout<<"NUMBER GUESSING GAME...";
     cout<<"--------------------------------------"<<endl;
-
+    cout<<endl<<endl;
+    
 }
