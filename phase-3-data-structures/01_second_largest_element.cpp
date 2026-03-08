@@ -8,8 +8,6 @@ FOUR ALGORITHMS used to solve this problem are:
     2. Two-Pass Approach
     3. Sorting Approach
     4. Tournament Approach
-
-
 */
 
 main(){
