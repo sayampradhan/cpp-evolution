@@ -28,7 +28,7 @@ int random_number_generator(int start, int end){
 main(){
     int start, end, random_number, guessed_number;
     cout<<"--------------------------------------"<<endl;
-    cout<<"NUMBER GUESSING GAME...";
+    cout<<"NUMBER GUESSING GAME..."<<endl;
     cout<<"--------------------------------------"<<endl;
     cout<<endl<<endl;
     cout<<"------- ENTER A RANGE -------"<<endl;
@@ -46,18 +46,18 @@ main(){
         cin>>guessed_number;
         if (guessed_number==random_number){
             cout<<"Ahhh... You guessed it right"<<endl;
-            cout<<"My guess was"<<random_number;
+            cout<<"My guess was "<<random_number;
             break;
         }
         if (guessed_number < random_number){
             cout<<"Ummm... The guessed number is lesser than what I have thought."<<endl;
-            cout<<"Try guessing a greater number.";
+            cout<<"Try guessing a greater number."<<endl;
         }
         if (guessed_number > random_number){
             cout<<"Ummm... The guessed number is greater than what I have thought."<<endl;
-            cout<<"Try guessing a smaller number.";
+            cout<<"Try guessing a smaller number."<<endl;
         }
-        cout<<"Enter again: ";
+        cout<<endl<<"Enter again: ";
     }
 
 }
