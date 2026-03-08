@@ -70,5 +70,4 @@ main(){
         }
         cout<<endl<<"Enter again: ";
     }
-
 }
