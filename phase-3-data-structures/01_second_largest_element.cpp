@@ -3,7 +3,8 @@ using namespace std;
 
 // Finding the second largest number in an array
 /*
-THREE ALGORITHMS used to solve this problem
+THREE ALGORITHMS used to solve this problem are:
+    1. Single-Pass Approach
 
 
 */
