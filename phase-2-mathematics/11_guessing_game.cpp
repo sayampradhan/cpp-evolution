@@ -42,5 +42,9 @@ main(){
     cout<<endl<<"Ummm... I have thought a number between "<<start<<" and "<<end;
     cout<<endl<<"Now you guess it..."<<endl<<endl;
     cout<<"Enter your guess: ";
-    cin>>guessed_number;
+    while(guessed_number != random_number){
+        cin>>guessed_number;
+        
+    }
+
 }
