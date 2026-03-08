@@ -18,8 +18,8 @@ BUILDING A GUESSING GAME
 
 // Function to generate a random number
 int random_number_generator(int start, int end){
-    random_device rd;
-    mt19937 gen(rd());
+    static random_device rd;
+    static mt19937 gen(rd());
     uniform_int_distribution<> distr(start, end);
     return distr(gen);
 }
