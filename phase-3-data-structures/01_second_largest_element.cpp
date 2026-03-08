@@ -1,5 +1,4 @@
 #include<iostream>
-#include<iterator>
 using namespace std;
 
 // Finding the second largest number in an array
