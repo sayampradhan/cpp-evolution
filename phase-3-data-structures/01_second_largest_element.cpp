@@ -31,9 +31,9 @@ main(){
     cout<<"Enter the length of the array: ";
     cin>>size;
     vector<int> test(size);
-    for (int i = 1; i <= size; i++){
-        cout<<"Enter the element "<<i<<": ";
+    for (int i = 0; i < size; i++){
+        cout<<"Enter the element "<<i + 1<<": ";
         cin>>test[i];
     }
-    single_pass(test, size);
+    single_pass(test.data(), size);
 }
