@@ -1,6 +1,7 @@
 #include<iostream>
 #include<random>
 #include<algorithm>
+#include<chrono>
 using namespace std;
 
 /*
@@ -20,7 +21,10 @@ BUILDING A GUESSING GAME
 // Function to generate a random number
 int random_number_generator(int start, int end){
     static random_device rd;
-    static mt19937 gen(rd());
+    // Combine hardware entropy with high-resolution time
+    auto time_seed = chrono::high_resolution_clock::now().time_since_epoch().count();
+    static mt19937 gen(rd() ^ static_cast<unsigned int>(time_seed));
+    
     if (start > end) swap(start, end);
     uniform_int_distribution<> distr(start, end);
     return distr(gen);
