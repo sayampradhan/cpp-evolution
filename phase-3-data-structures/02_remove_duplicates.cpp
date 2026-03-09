@@ -57,7 +57,7 @@ int main() {
         cin >> arr[i];
     }
 
-    cout<<endl<<endl;
+    cout<<endl;
 
     size = removeDuplicates(arr, size);
 
