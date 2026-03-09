@@ -64,4 +64,5 @@ int main() {
     }
 
     delete[] arr; // free memory
+    return 0;
 }
