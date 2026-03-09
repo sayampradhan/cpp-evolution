@@ -5,7 +5,7 @@ using namespace std;
 template <size_t N>
 bool isSorted(int (&arr)[N]){
     int length = N;
-    if (is_sorted(arr, arr + N)){
+    if (is_sorted(begin(arr), end(arr))){
         return true;
     }
     else{
