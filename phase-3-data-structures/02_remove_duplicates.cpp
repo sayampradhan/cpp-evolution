@@ -1,9 +1,10 @@
 #include<iostream>
 using namespace std;
 
+// Function to check if the array is sorted
 template <size_t N>
 bool isSorted(int (&arr)[N]){
-    int length = sizeof(arr)/sizeof(arr[0]);
+    int length = N;
     for (int i = 0; i < length; i++){
         if (arr[i]<arr[i+1]){
             return true;
@@ -14,8 +15,8 @@ bool isSorted(int (&arr)[N]){
     }
 }
 
-template <size_t N>
 // Insertion sort for sorting the array
+template <size_t N>
 void sortArray(int (&arr)[N]){
     int length = N;
     for (int i = 1; i < length; i++){
