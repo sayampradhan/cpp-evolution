@@ -17,7 +17,7 @@ bool isSorted(int arr[]){
 void sortArray(int *arr){
     int length = sizeof(arr)/sizeof(arr[0]);
     for (int i = 1; i < length; i++){
-        
+        int key = arr[i];
     }
 }
 
