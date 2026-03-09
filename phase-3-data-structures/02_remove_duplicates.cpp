@@ -33,8 +33,8 @@ void sortArray(int (&arr)[N]){
 // Function to remove duplicates from an array
 void removeDuplicates(int arr[], int size){
     if (size == 0) return;
-    if (isSorted(arr)==true){
-
+    if (!isSorted(arr)){
+        sort(begin(arr),end(arr));
     }
 }
 
