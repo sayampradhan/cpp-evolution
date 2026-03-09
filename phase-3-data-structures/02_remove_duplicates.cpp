@@ -13,8 +13,9 @@ bool isSorted(int arr[]){
     }
 }
 
+template <size_t N>
 // Insertion sort for sorting the array
-void sortArray(int *arr){
+void sortArray(int (&arr)[N]){
     int length = sizeof(arr)/sizeof(arr[0]);
     for (int i = 1; i < length; i++){
         int key = arr[i];
