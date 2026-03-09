@@ -13,6 +13,7 @@ bool isSorted(int arr[]){
     }
 }
 
+// Insertion sort for sorting the array
 void sortArray(int *arr){
     int length = sizeof(arr)/sizeof(arr[0]);
     int temp = 0;
