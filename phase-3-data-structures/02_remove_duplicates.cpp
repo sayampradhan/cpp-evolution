@@ -1,44 +1,54 @@
-#include<iostream>
-#include<algorithm>
+#include <iostream>
+#include <algorithm>
 using namespace std;
 
-// Function to check if the array is sorted
-template <size_t N>
-bool isSorted(int (&arr)[N]){
-    int length = N;
-    if (is_sorted(begin(arr), end(arr))){
-        return true;
-    }
-    else{
-        return false;
-    }
+// Function to check if array is sorted
+bool isSorted(int arr[], int size) {
+    return is_sorted(arr, arr + size);
 }
 
-// Insertion sort for sorting the array
-template <size_t N>
-void sortArray(int (&arr)[N]){
-    int length = N;
-    for (int i = 1; i < length; i++){
+// Insertion sort
+void sortArray(int arr[], int size) {
+    for (int i = 1; i < size; i++) {
         int key = arr[i];
         int j = i - 1;
 
-        while (j > 0 && arr[j] > key){
+        while (j >= 0 && arr[j] > key) {
             arr[j + 1] = arr[j];
-            j = j - 1;
+            j--;
         }
+
         arr[j + 1] = key;
     }
 }
 
-// Function to remove duplicates from an array
-void removeDuplicates(int arr[], int size){
-    if (size == 0) return;
-    if (!isSorted(arr)){
-        sort(begin(arr),end(arr));
+// Remove duplicates
+int removeDuplicates(int arr[], int size) {
+    if (size == 0) return 0;
+
+    if (!isSorted(arr, size)) {
+        sortArray(arr, size);
     }
+
+    int j = 0;
+
+    for (int i = 1; i < size; i++) {
+        if (arr[i] != arr[j]) {
+            j++;
+            arr[j] = arr[i];
+        }
+    }
+
+    return j + 1; // new size
 }
 
-// main function
-main(){
-    int arr[] = {1,2,5,1,7};
+int main() {
+    int arr[] = {1, 2, 5, 1, 7};
+    int size = sizeof(arr) / sizeof(arr[0]);
+
+    size = removeDuplicates(arr, size);
+
+    for (int i = 0; i < size; i++) {
+        cout << arr[i] << " ";
+    }
 }
