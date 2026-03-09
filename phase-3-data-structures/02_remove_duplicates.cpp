@@ -43,8 +43,8 @@ int removeDuplicates(int arr[], int size) {
 }
 
 int main() {
-    int arr[] = {};
     int size;
+    int arr[] = {};
     cout<<"Enter the size of the array: ";
     cin>>size;
 
