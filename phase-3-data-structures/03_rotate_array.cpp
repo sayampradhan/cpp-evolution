@@ -1,5 +1,5 @@
 #include<iostream>
-#include<array>
+#include<vector>
 using namespace std;
 
 /*
@@ -26,8 +26,16 @@ Example of Rotation by Left:
 
 // The elements will be shift to the right by k elements
 int right_rotate(int *arr, int size, int k){
-    int new_arr = new int (size);
+    vector<int> new_arr = {};
     for (int i = size-k; i <= size; i++){
+        new_arr.push_back(arr[i]);
         
     }
+
+    for (int i = 0; i <= )
+}
+
+int main(){
+    int arr[] = {1, 2, 3, 5};
+
 }
