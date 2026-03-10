@@ -9,5 +9,7 @@ We need to rotate an array left/right by k position.
 - Then perform the rotation
 
 Example:
+    1.  array = [1,2,3], k=1
+        Output: [3,1,2]
 
 */
