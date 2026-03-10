@@ -44,7 +44,7 @@ int right_rotate(int *arr, int size, int k){
     }
 }
 
-// main function for implementing the rotation
+// main function for implementing the right rotation
 int main(){
     int temp = 0;
     int k;
