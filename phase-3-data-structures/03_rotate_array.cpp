@@ -24,7 +24,8 @@ Example of Rotation by Left:
 */
 
 // The elements will be shift to the right by k elements
-int right_rotate(int *arr, int k){
+int right_rotate(int *arr, int size, int k){
+    
     for (int i = 0; i <= size; i++){
         
     }
