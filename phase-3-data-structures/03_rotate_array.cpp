@@ -15,6 +15,10 @@ Example of Rotation by Right:
     2.  array = [10, 30, 90, 40, 6], k = 3
         Output: [90, 40, 6, 10, 30]
 
-
+Example of Rotation by Left:
+    1.  array = [1,2,3], k=1
+        Output: [2,3,1]
+    2.  array = [10,30,90,40,6], k = 3
+        Output: [40,6,10,30,90]
 
 */
