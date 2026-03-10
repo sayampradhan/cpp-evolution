@@ -11,5 +11,10 @@ We need to rotate an array left/right by k position.
 Example of Rotation by Right:
     1.  array = [1,2,3], k=1
         Output: [3,1,2]
+    
+    2.  array = [10, 30, 90, 40, 6], k = 3
+        Output: [90, 40, 6, 10, 30]
+
+
 
 */
