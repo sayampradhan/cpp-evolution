@@ -36,7 +36,7 @@ int right_rotate(int *arr, int size, int k){
         new_arr.push_back(arr[i]);
     }
 
-
+    cout<<"\nArray after shift: ";
     for (int i = 0; i < new_arr.size(); i++){
         if (!(i == new_arr.size()-1))
         cout<<new_arr[i]<<", ";
@@ -54,16 +54,24 @@ int main(){
 
     int arr[n] = {};
 
+    cout<<endl;
+
     for (int i = 0; i < n; i++){
         cout<<"Enter element at index "<<i<<" : ";
-        cin>>arr[i]
+        cin>>arr[i];
     }
 
     int size = sizeof(arr)/ sizeof(arr[0]);
 
-    cout<<"Enter no. of elements from the right to be shifted: ";
+    cout<<"\nEnter no. of elements from the right to be shifted: ";
     cin>>k;
+    if (!(k < size - 1)){
+        cout<<"Enter again (k should be less than size) : ";
+        cin>>k;
+    }
 
 
     right_rotate(arr, size, k);
+
+    return 0;
 }
