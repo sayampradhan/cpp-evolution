@@ -71,7 +71,6 @@ int main(){
         cin>>k;
     }
 
-
     right_rotate(arr, size, k);
 
     return 0;
