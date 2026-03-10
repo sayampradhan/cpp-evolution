@@ -36,7 +36,7 @@ int right_rotate(int *arr, int size, int k){
         new_arr.push_back(arr[i]);
     }
 
-    cout<<"\nArray after shift: ";
+    cout<<"\nArray after rotation: ";
     for (int i = 0; i < new_arr.size(); i++){
         if (!(i == new_arr.size()-1))
         cout<<new_arr[i]<<", ";
