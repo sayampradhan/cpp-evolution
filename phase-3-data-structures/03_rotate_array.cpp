@@ -44,6 +44,7 @@ int right_rotate(int *arr, int size, int k){
     }
 }
 
+// main function for implementing the rotation
 int main(){
     int temp = 0;
     int k;
@@ -63,7 +64,7 @@ int main(){
 
     int size = sizeof(arr)/ sizeof(arr[0]);
 
-    cout<<"\nEnter no. of elements from the right to be shifted: ";
+    cout<<"\nEnter no. of elements from the right to be rotated: ";
     cin>>k;
     if (!(k < size - 1)){
         cout<<"Enter again (k should be less than size) : ";
