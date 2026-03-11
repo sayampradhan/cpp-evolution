@@ -13,8 +13,7 @@ Output: 7
 
 // function to find the missing number
 int missing_num(const vector<int> arr, int size){
-    int minNum = *min_element(arr.begin(), arr.end());
-    for (int i = minNum; i <= minNum + size; i++){
+    for (int i = 1; i <= size; i++){
         bool found = false;
         for (int j = 0; j < size; j++){
             if (arr[j]==i){
