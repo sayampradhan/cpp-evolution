@@ -1,5 +1,6 @@
 #include<iostream>
 #include<vector>
+#include<algorithm>
 using namespace std;
 
 /*
@@ -12,6 +13,7 @@ Output: 7
 
 // function to find the missing number
 int missing_num(vector<int> arr, int size){
+    int minNum = min_element(arr.begin(), arr.end());
     for (int i = 1; i <= size; i++){
         bool found = false;
         for (int j = 0; j < size - 1; j++){
