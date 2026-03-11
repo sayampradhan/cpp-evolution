@@ -28,6 +28,7 @@ int missing_num(vector<int> arr, int size){
 
 }
 
+// 
 int main(){
     vector <int> arr;
     int n;
