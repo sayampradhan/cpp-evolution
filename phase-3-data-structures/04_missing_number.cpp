@@ -10,6 +10,7 @@ Input: [1, 2, 3, 4, 5, 6, 8, 9]
 Output: 7
 */
 
+// function to find the missing number
 int missing_num(vector<int> arr, int size){
     for (int i = 1; i <= size; i++){
         bool found = false;
