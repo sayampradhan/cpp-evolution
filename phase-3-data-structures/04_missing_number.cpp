@@ -10,6 +10,10 @@ Input: [1, 2, 3, 4, 5, 6, 8, 9]
 Output: 7
 */
 
+int missing_num(vector<int> arr, int size){
+
+}
+
 int main(){
     vector <int> arr;
     int n;
@@ -28,5 +32,8 @@ int main(){
         cout<<i<<" ";
     }
     cout<<endl;
+    int n = arr.size();
+
+    missing_num(arr, n);
     
 }
