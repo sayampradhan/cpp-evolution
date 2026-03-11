@@ -12,11 +12,11 @@ Output: 7
 */
 
 // function to find the missing number
-int missing_num(vector<int> arr, int size){
+int missing_num(const vector<int> arr, int size){
     int minNum = *min_element(arr.begin(), arr.end());
     for (int i = minNum; i <= size; i++){
         bool found = false;
-        for (int j = 0; j < size - 1; j++){
+        for (int j = 0; j < size; j++){
             if (arr[j]==i){
                 found = true;
                 break;
