@@ -14,4 +14,5 @@ int main(){
     vector <int> arr;
     int n;
     cout<<"Enter size: ";
+    cin>>n;
 }
