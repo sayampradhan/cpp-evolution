@@ -23,6 +23,7 @@ int missing_num(vector<int> arr, int size){
             return i;
         }
     }
+    return -1;
 
 }
 
