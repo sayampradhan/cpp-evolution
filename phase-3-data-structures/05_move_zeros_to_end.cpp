@@ -3,6 +3,8 @@
 #include<algorithm>
 using namespace std;
 
+
+
 // function to move zeros to the end
 void moveZeros(vector<int> &arr, int size, int count){
     int removeValue = 0;
