@@ -9,7 +9,7 @@ void moveZeros(vector<int> *arr, int size, int count){
 }
 
 main(){
-
+    vector<int> arr;
     int target = 0;
     int count = count(arr.begin(), arr.end(), target);
 }
