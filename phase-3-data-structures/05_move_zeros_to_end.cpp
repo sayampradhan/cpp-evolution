@@ -11,10 +11,13 @@ void moveZeros(vector<int> *arr, int size, int count){
 main(){
     vector<int> arr;
     int size;
+    int temp = 0;
     cout<<"Enter the length of the array: ";
     cin>>size;
     for (int i = 0; i < size; i ++){
-        
+        cout<<"Enter element at index "<<i<<" : ";
+        cin>>temp;
+
     }
 
 
