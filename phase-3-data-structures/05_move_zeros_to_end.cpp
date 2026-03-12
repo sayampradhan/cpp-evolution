@@ -7,7 +7,7 @@ using namespace std;
 void moveZeros(vector<int> *arr, int size, int count){
     int removeValue = 0;
     auto new_end = remove(arr.begin(), arr.end(), removeValue);
-    arr.erase(new_end, numbers.end());
+    arr.erase(new_end, arr.end());
 
     for (int i = 1; i <= count; i++){
         arr.push_back(0);
