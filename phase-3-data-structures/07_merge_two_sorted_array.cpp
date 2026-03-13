@@ -10,4 +10,5 @@ using namespace std;
 // function to merge two array
 void mergeArrays(vector<int>& arr1, vector<int>& arr2){
     int n = arr1.size();
+    int m = arr2.size();
 }
