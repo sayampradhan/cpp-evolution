@@ -23,4 +23,17 @@ void mergeArrays(vector<int>& arr1, vector<int>& arr2){
             merged.push_back(arr2[j++]);
         }
     }
+
+    while (i < n) merged.push_back(arr1[i++]);
+
+    while (j < m) merged.push_back(arr2[i++]);
+
+    for (int k = 0; k < n; ++k){
+        arr1[k] = merged[k];
+    }
+
+    for (int k = 0; k < m; ++k){
+        arr2[k] = merged[n + k];
+    }
 }
+
