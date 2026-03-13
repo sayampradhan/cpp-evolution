@@ -14,4 +14,8 @@ void mergeArrays(vector<int>& arr1, vector<int>& arr2){
     int i = 0, j = 0;
 
     vector<int> merged;
+
+    while(i < n && j < m){
+        
+    }
 }
