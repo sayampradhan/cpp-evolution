@@ -14,6 +14,6 @@ Subarrays are:
 [1,2,3,4],[2,3,4,5],
 [1,2,3,4,5]
 */
-int max_subarray_sum(int arr[]){
+int max_subarray_sum(vector<int> *arr){
 
 }
