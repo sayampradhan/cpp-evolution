@@ -43,7 +43,7 @@ This phase introduces the **first true data structures** and trains the mind to 
 - [x] Rotate array left/right  
 - [x] Find missing number in 1–N  
 - [x] Move all zeros to end  
-- [ ] Kadane’s Algorithm (Maximum subarray sum)  
+- [ ] Kadane’s Algorithm (Maximum subarray sum)  --- Imcomplete
 - [ ] Merge two sorted arrays  
 - [ ] Implement Binary Search  
 - [ ] Count frequency of elements  
