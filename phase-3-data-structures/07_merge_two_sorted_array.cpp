@@ -16,6 +16,8 @@ void mergeArrays(vector<int>& arr1, vector<int>& arr2){
     vector<int> merged;
 
     while(i < n && j < m){
-        
+        if (arr1[i]<=arr2[j]){
+            merged.push_back(arr1[i++]);
+        }
     }
 }
