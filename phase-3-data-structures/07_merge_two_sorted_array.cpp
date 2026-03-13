@@ -7,6 +7,12 @@ using namespace std;
 // Time complexity - O(n + m)
 // Space complexity - O(n + m)
 
+/*
+Used GeeksforGeeks as reference to solve this question
+
+link: https://www.geeksforgeeks.org/dsa/merge-two-sorted-arrays/
+*/
+
 // function to merge two array
 void mergeArrays(vector<int>& arr1, vector<int>& arr2){
     int n = arr1.size();
