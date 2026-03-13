@@ -1,5 +1,6 @@
 #include<iostream>
 #include<vector>
+#include<algorithm>
 using namespace std;
 
 // Kadane's Algorithm -  maximum subarray sum
