@@ -23,8 +23,4 @@ int main(){
         arr.push_back(temp);
     }
 
-    high = size - 1;
-    low = 0;
-    mid = (high - low) / 2;
-
 }
