@@ -9,7 +9,7 @@ int binary_search(vector<int>& arr, int low, int mid, int high){
 int main(){
     vector<int> arr;
     int size;
-    int low = 0;
+    int low;
     int high;
     int mid;
 
@@ -24,6 +24,6 @@ int main(){
     }
 
     high = size - 1;
-    
+    low = 0;
 
 }
