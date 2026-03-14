@@ -2,7 +2,7 @@
 #include<vector>
 using namespace std;
 
-int binary_search(vector<int>& arr, int low, int mid, int high){
+int binary_search(vector<int>& arr){
 
 }
 
