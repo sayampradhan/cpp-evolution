@@ -38,6 +38,6 @@ int main(){
     
     cout<<endl<<endl;
     cout<<"Enter element to search: ";
-    cin>>element
+    cin>>element;
     binary_search(arr);
 }
