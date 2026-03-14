@@ -7,6 +7,8 @@ int binary_search(vector<int>& arr){
     int high = arr.size() - 1;
     int mid = (high - low) / 2;
 
+    
+
 }
 
 int main(){
