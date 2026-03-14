@@ -3,6 +3,7 @@
 using namespace std;
 
 int binary_search(vector<int>& arr){
+    int low = 0;
 
 }
 
@@ -23,4 +24,5 @@ int main(){
         arr.push_back(temp);
     }
 
+    binary_search(arr);
 }
