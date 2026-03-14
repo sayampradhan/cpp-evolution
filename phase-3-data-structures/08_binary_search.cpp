@@ -39,5 +39,5 @@ int main(){
     cout<<endl<<endl;
     cout<<"Enter element to search: ";
     cin>>element;
-    binary_search(arr);
+    binary_search(arr, element);
 }
