@@ -25,5 +25,6 @@ int main(){
 
     high = size - 1;
     low = 0;
+    mid = high -  / 2;
 
 }
