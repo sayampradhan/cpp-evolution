@@ -4,6 +4,7 @@ using namespace std;
 
 int binary_search(vector<int>& arr){
     int low = 0;
+    int high = arr.size() - 1;
 
 }
 
