@@ -2,7 +2,7 @@
 #include<vector>
 using namespace std;
 
-vector<vector<int>> frequency(vector<int>& arr){
+vector<vector<int>> freq(vector<int>& arr){
     int n = arr.size();
 
     vector<bool> visited(n, false);
@@ -36,5 +36,7 @@ int main(){
         cin>>temp;
         arr.push_back(temp);
     }
+    vector<vector<int>>frequency = freq(arr);
+
     return 0;
 }
