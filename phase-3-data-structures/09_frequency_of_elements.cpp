@@ -13,6 +13,7 @@ int main(){
     cin>>n;
     for(int i = 0; i < n; i++){
         int temp = 0;
+        cout<<"Enter element at "<<i<<" : "
     }
     return 0;
 }
