@@ -12,7 +12,7 @@ int main(){
     cout<<"Enter the number of elements: ";
     cin>>n;
     for(int i = 0; i < n; i++){
-        
+        int temp = 0;
     }
     return 0;
 }
