@@ -15,6 +15,7 @@ int main(){
         int temp = 0;
         cout<<"Enter element at "<<i<<" : ";
         cin>>temp;
+        arr.push_back(temp);
     }
     return 0;
 }
