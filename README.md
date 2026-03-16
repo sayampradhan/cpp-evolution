@@ -126,7 +126,7 @@ Master space-star balance, index mathematics, and symmetry reasoning.
 - [x] Merge two sorted arrays  
 - [x] Implement Binary Search  
 - [x] Count frequency of elements  
-- [ ] Stock buy-sell (maximum profit)
+- [x] Stock buy-sell (maximum profit)
 
 ### 🔹 Strings
 
