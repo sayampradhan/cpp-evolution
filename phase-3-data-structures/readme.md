@@ -47,7 +47,7 @@ This phase introduces the **first true data structures** and trains the mind to 
 - [x] Merge two sorted arrays  
 - [x] Implement Binary Search  
 - [x] Count frequency of elements  
-- [ ] Stock buy-sell (maximum profit)
+- [x] Stock buy-sell (maximum profit)
 
 ### 🔹 Strings
 
