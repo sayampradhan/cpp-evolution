@@ -1,6 +1,6 @@
 #include <algorithm>
 #include<iostream>
-#include <vector>
+#include <string>
 using namespace std;
 
 bool isAnagram(string a, string b)
@@ -29,12 +29,17 @@ bool isAnagram(string a, string b)
 
 int main()
 {
-    vector<string> words;
-    vector<string> anagrams;
+    string words;
+    string anagrams;
 
     cout<<"Enter anagram: ";
     cin>>anagrams;
     cout<<"Enter word: ";
     cin>>words;
+
+    if (isAnagram(words, anagrams))
+    {
+
+    }
 
 }
