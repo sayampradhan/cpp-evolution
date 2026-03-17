@@ -39,7 +39,11 @@ int main()
 
     if (isAnagram(words, anagrams))
     {
-
+        cout<<"The two strings are anagrams of each other.";
+    }
+    else
+    {
+        cout<<"The two strings are not anagrams of each other.";
     }
 
 }
