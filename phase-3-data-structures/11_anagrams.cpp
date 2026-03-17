@@ -45,5 +45,5 @@ int main()
     {
         cout<<"The two strings are not anagrams of each other.";
     }
-
+    return 0;
 }
