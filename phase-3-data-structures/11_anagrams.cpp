@@ -14,6 +14,17 @@ bool isAnagram(string a, string b)
     }
     sort(a.begin(), a.end());
     sort(b.begin(), b.end());
+    for(int i = 0; i < length1; i++)
+    {
+        if(a[i] != b[i])
+        {
+            return false;
+        }
+        else
+        {
+            return true;
+        }
+    }
 }
 
 int main()
