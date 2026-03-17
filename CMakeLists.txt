@@ -1,0 +1,56 @@
+cmake_minimum_required(VERSION 4.1)
+project(cpp_evolution)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(cpp_evolution
+        phase-1-foundations/01_print_full_name.cpp
+        phase-1-foundations/02_positive_negative_zero.cpp
+        phase-1-foundations/03_largest_of_three.cpp
+        phase-1-foundations/04_leap_year.cpp
+        phase-1-foundations/05_reverse_number.cpp
+        phase-1-foundations/06_count_digits.cpp
+        phase-1-foundations/07_sum_of_digits.cpp
+        phase-1-foundations/08_palindrome_number.cpp
+        phase-1-foundations/09_multiplication_table.cpp
+        phase-1-foundations/10_print_pattern.cpp
+        phase-1.5-exploring-patterns/01_right_triangle.cpp
+        phase-1.5-exploring-patterns/02_pyramid.cpp
+        phase-1.5-exploring-patterns/03_diamond.cpp
+        phase-1.5-exploring-patterns/04_rectangle.cpp
+        phase-1.5-exploring-patterns/05_more_on_right_triangle.cpp
+        phase-1.5-exploring-patterns/06_number_pyramid.cpp
+        phase-1.5-exploring-patterns/07_floyd_triangle.cpp
+        phase-1.5-exploring-patterns/08_0_1_triangle.cpp
+        phase-1.5-exploring-patterns/09_hollow_half_pyramid.cpp
+        phase-1.5-exploring-patterns/10_hollow_pyramid.cpp
+        phase-1.5-exploring-patterns/11_hollow_diamond.cpp
+        phase-1.5-exploring-patterns/12_butterfly.cpp
+        phase-1.5-exploring-patterns/13_sandglass.cpp
+        phase-1.5-exploring-patterns/14_pascal_triangle.cpp
+        phase-1.5-exploring-patterns/15_palindromic_pyramid.cpp
+        phase-1.5-exploring-patterns/16_rhombus.cpp
+        phase-1.5-exploring-patterns/17_hollow_butterfly.cpp
+        phase-1.5-exploring-patterns/18_spiral_matrix.cpp
+        phase-1.5-exploring-patterns/19_zigzag_matrix.cpp
+        phase-2-mathematics/01_prime_numbers.cpp
+        phase-2-mathematics/02_armstrong_numbers.cpp
+        phase-2-mathematics/03_gcd.cpp
+        phase-2-mathematics/04_lcm.cpp
+        phase-2-mathematics/05_fibonnaci_generator.cpp
+        phase-2-mathematics/06_decimal_to_binary.cpp
+        phase-2-mathematics/07_pascal_triangle.cpp
+        phase-2-mathematics/08_factorial_without_recursion.cpp
+        phase-2-mathematics/09_strong_number.cpp
+        phase-2-mathematics/10_perfect_number.cpp
+        phase-2-mathematics/11_guessing_game.cpp
+        phase-3-data-structures/02_remove_duplicates.cpp
+        phase-3-data-structures/03_rotate_array_right.cpp
+        phase-3-data-structures/04_missing_number.cpp
+        phase-3-data-structures/05_move_zeros_to_end.cpp
+        phase-3-data-structures/06_kadane_algorithm.cpp
+        phase-3-data-structures/07_merge_two_sorted_array.cpp
+        phase-3-data-structures/08_binary_search.cpp
+        phase-3-data-structures/09_frequency_of_elements.cpp
+        phase-3-data-structures/10_buy-sell.cpp
+        phase-3-data-structures/11_anagrams.cpp)
