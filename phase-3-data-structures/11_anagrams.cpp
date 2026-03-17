@@ -32,4 +32,9 @@ int main()
     vector<string> words;
     vector<string> anagrams;
 
+    cout<<"Enter anagram: ";
+    cin>>anagrams;
+    cout<<"Enter word: ";
+    cin>>words;
+
 }
