@@ -6,4 +6,8 @@ using namespace std;
 string reverseWord(string word){
     string result;
 
+    result = word.substr(0, word.length() - 1);
+
+    return result;
+
 }
