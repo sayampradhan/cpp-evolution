@@ -53,4 +53,5 @@ add_executable(cpp_evolution
         phase-3-data-structures/08_binary_search.cpp
         phase-3-data-structures/09_frequency_of_elements.cpp
         phase-3-data-structures/10_buy-sell.cpp
-        phase-3-data-structures/11_anagrams.cpp)
+        phase-3-data-structures/11_anagrams.cpp
+        phase-3-data-structures/12_reverse_string.cpp)
