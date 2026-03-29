@@ -54,4 +54,5 @@ add_executable(cpp_evolution
         phase-3-data-structures/09_frequency_of_elements.cpp
         phase-3-data-structures/10_buy-sell.cpp
         phase-3-data-structures/11_anagrams.cpp
-        phase-3-data-structures/12_reverse_string.cpp)
+        phase-3-data-structures/12_reverse_string.cpp
+        phase-3-data-structures/15_remove_spaces.cpp)
