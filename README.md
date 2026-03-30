@@ -135,7 +135,7 @@ Master space-star balance, index mathematics, and symmetry reasoning.
 - [x] Longest word in a sentence  
 - [x] Count vowels and consonants  
 - [x] Remove spaces  
-- [ ] Check substring manually  
+- [x] Check substring manually  
 - [ ] String compression (aaabb → a3b2)  
 - [ ] Longest palindrome substring (brute force)
 
