@@ -136,7 +136,7 @@ Master space-star balance, index mathematics, and symmetry reasoning.
 - [x] Count vowels and consonants  
 - [x] Remove spaces  
 - [x] Check substring manually  
-- [ ] String compression (aaabb → a3b2)  
+- [x] String compression (aaabb → a3b2)  
 - [ ] Longest palindrome substring (brute force)
 
 ## 🔵 PHASE 4 — Recursion & Algorithmic Depth
