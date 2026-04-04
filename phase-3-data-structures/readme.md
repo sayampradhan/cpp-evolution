@@ -57,7 +57,7 @@ This phase introduces the **first true data structures** and trains the mind to 
 - [x] Count vowels and consonants  
 - [x] Remove spaces  
 - [x] Check substring manually  
-- [ ] String compression (aaabb → a3b2)  
+- [x] String compression (aaabb → a3b2)  
 - [ ] Longest palindrome substring (brute force)
 
 ---
