@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/Focus-Arrays_&_Strings-FF8800" />
   <img src="https://img.shields.io/badge/Mastery-Data_Structures-blue" />
   <img src="https://img.shields.io/badge/Skill-Algorithmic_Thinking-success" />
-  <img src="https://img.shields.io/badge/Status-In_Progress-yellow" />
+  <img src="https://img.shields.io/badge/Status-Completed-success" />
 </p>
 
 > Data structures are where programming  
