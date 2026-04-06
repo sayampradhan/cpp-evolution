@@ -122,7 +122,7 @@ Master space-star balance, index mathematics, and symmetry reasoning.
 - [x] Rotate array left/right  
 - [x] Find missing number in 1–N  
 - [x] Move all zeros to end  
-- [ ] Kadane’s Algorithm (Maximum subarray sum)  
+- [x] Kadane’s Algorithm (Maximum subarray sum)  
 - [x] Merge two sorted arrays  
 - [x] Implement Binary Search  
 - [x] Count frequency of elements  
@@ -137,7 +137,7 @@ Master space-star balance, index mathematics, and symmetry reasoning.
 - [x] Remove spaces  
 - [x] Check substring manually  
 - [x] String compression (aaabb → a3b2)  
-- [ ] Longest palindrome substring (brute force)
+- [x] Longest palindrome substring (brute force)
 
 ## 🔵 PHASE 4 — Recursion & Algorithmic Depth
 
